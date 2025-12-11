@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Venu Yara</h1>
-  <h3>Staff  Full-Stack Software Engineer | AI/ML & Cloud Solutions Architect</h3>
+  <h3>Staff Full-Stack Software Engineer | AI/ML & Cloud Solutions Architect</h3>
   <p><strong>Louisville, Kentucky, United States</strong> | <strong>US Citizen</strong></p>
 </div>
 
