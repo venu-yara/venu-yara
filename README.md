@@ -103,7 +103,6 @@ Skilled in machine learning engineering, MLOps, and cloud-native architectures, 
 | Degree | Institution | Location | Year |
 |--------|------------|----------|------|
 | **Master of Science in Computer Science** | Northwestern Polytechnic University | Fremont, California, United States | 2016 |
-| **Bachelor of Science in Computer Science** | Jawaharlal Nehru Technological University (JNTU) | Hyderabad, India | 2013 |
 
 ---
 
