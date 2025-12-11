@@ -72,19 +72,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=venu-yara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Venu's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venu-yara&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=venu-yara&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
 ### 🏆 Key Achievements
 
 - 🚀 **Architecture Modernization:** Reduced load times by 45% through dynamic imports and code splitting
@@ -118,14 +105,6 @@
 
 - ✅ **Microsoft Azure Administrator - Associate** (Microsoft)
 - ✅ **AWS Certified Solutions Architect – Associate** (Amazon Web Services)
-
----
-
-### 📈 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venu-yara&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</div>
 
 ---
 
