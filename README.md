@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=2370f5&size=40&center=true&vCenter=true&width=600&height=70&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Venu+Yara;Staff+Full-Stack+Software+Engineer;AI%2FML+%26+Cloud+Solutions+Architect" alt="Venu Yara" />
+  <h1>Venu Yara</h1>
+  <h3>Staff Full-Stack Software Engineer | AI/ML & Cloud Solutions Architect</h3>
+  <p><strong>Louisville, Kentucky, United States</strong> | <strong>US Citizen</strong></p>
 </div>
 
 <div align="center">
@@ -8,28 +10,41 @@
 
 ---
 
-### 👨‍💻 About Me
+## Professional Summary
 
-- 🏢 **Currently Working:** Senior Full-Stack Engineer at **Humana / TCS**, Louisville, KY
-- 🎯 **Focus Areas:** Full-Stack Development, AI/ML Engineering, Cloud Architecture, MLOps
-- 💡 **Passion:** Building scalable, intelligent solutions that bridge AI models and production systems
-- 🌱 **Learning:** Advanced MLOps, Cloud-Native Architectures, and Emerging AI Technologies
-- 👥 **Mentoring:** Actively mentoring 7+ engineers across React, Python, and cloud engineering
-- 📧 **Contact:** [venu.yara212@gmail.com](mailto:venu.yara212@gmail.com)
-- 💼 **LinkedIn:** [venu-reddy-387358264](https://linkedin.com/in/venu-reddy-387358264/)
+Results-driven **Staff Full-Stack Software Engineer** with over 12 years of experience designing, developing, and deploying high-impact enterprise and AI-driven applications. Expert in JavaScript, TypeScript, Python, C#, and Java, with strong proficiency in React, Node.js, Django, Flask, .NET Core, and AWS. Proven ability to lead end-to-end software delivery — from architecture and design to deployment and optimization — across web, mobile, and cloud ecosystems.
+
+Skilled in machine learning engineering, MLOps, and cloud-native architectures, delivering scalable, secure, and intelligent solutions for healthcare, logistics, and financial domains. Passionate about mentoring teams, driving technical innovation, and bridging the gap between AI models and production-grade systems to create measurable business value.
 
 ---
 
-### 🛠️ Tech Stack
+## Current Position
 
-#### **Programming Languages**
+**Senior Full-Stack Engineer** | Humana / TCS  
+*August 2022 – Present | Louisville, Kentucky*
+
+---
+
+## Contact Information
+
+- **Email:** [venu.yara212@gmail.com](mailto:venu.yara212@gmail.com)
+- **LinkedIn:** [linkedin.com/in/venu-reddy-387358264/](https://linkedin.com/in/venu-reddy-387358264/)
+- **GitHub:** [github.com/venu-yara](https://github.com/venu-yara)
+- **Location:** Louisville, Kentucky, United States
+- **Work Authorization:** US Citizen
+
+---
+
+## Technical Expertise
+
+### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-#### **Frontend Technologies**
+### Frontend Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -37,7 +52,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### **Backend & APIs**
+### Backend & API Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -46,7 +61,7 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-#### **AI/ML & Data Science**
+### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -54,7 +69,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-#### **Cloud & DevOps**
+### Cloud Platforms & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -63,7 +78,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-#### **Databases**
+### Database Technologies
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -72,27 +87,27 @@
 
 ---
 
-### 🏆 Key Achievements
+## Key Achievements & Impact
 
-- 🚀 **Architecture Modernization:** Reduced load times by 45% through dynamic imports and code splitting
-- ⚡ **Performance Optimization:** Achieved 35% latency reduction through advanced caching and API optimization
-- 🤖 **AI Integration:** Built AI-powered personalization and content-generation features using OpenAI and LangChain
-- ☁️ **Cloud Expertise:** Deployed scalable ML pipelines using AWS SageMaker, PyTorch, and scikit-learn
-- 👨‍🏫 **Leadership:** Mentoring 7+ engineers across multiple technology stacks
-- 🔧 **DevOps Excellence:** Implemented comprehensive CI/CD pipelines with Jenkins, GitHub Actions, Docker, and Kubernetes
-
----
-
-### 🎓 Education
-
-| Degree | Institution | Year |
-|--------|------------|------|
-| **Master's in Computer Science** | Northwestern Polytechnic University, Fremont, CA | 2016 |
-| **Bachelor's in Computer Science** | JNTU Hyderabad | 2013 |
+- **Architecture Modernization:** Reduced application load times by 45% through strategic implementation of dynamic imports and code splitting techniques
+- **Performance Optimization:** Achieved 35% latency reduction through advanced caching strategies and API query optimization
+- **AI Integration:** Successfully built and deployed AI-powered personalization and content-generation features using OpenAI, LangChain, and TensorFlow
+- **Cloud Expertise:** Deployed scalable ML pipelines for production environments using AWS SageMaker, PyTorch, and scikit-learn
+- **Technical Leadership:** Actively mentoring 7+ engineers across React, Python, and cloud engineering disciplines
+- **DevOps Excellence:** Implemented comprehensive CI/CD pipelines with Jenkins, GitHub Actions, Docker, and Kubernetes, improving deployment efficiency
 
 ---
 
-### 🏅 Certifications
+## Education
+
+| Degree | Institution | Location | Year |
+|--------|------------|----------|------|
+| **Master of Science in Computer Science** | Northwestern Polytechnic University | Fremont, California, United States | 2016 |
+| **Bachelor of Science in Computer Science** | Jawaharlal Nehru Technological University (JNTU) | Hyderabad, India | 2013 |
+
+---
+
+## Professional Certifications
 
 <div align="center">
   <a href="https://www.credly.com/badges" target="_blank">
@@ -103,12 +118,12 @@
   </a>
 </div>
 
-- ✅ **Microsoft Azure Administrator - Associate** (Microsoft)
-- ✅ **AWS Certified Solutions Architect – Associate** (Amazon Web Services)
+- **Microsoft Azure Administrator - Associate** | Microsoft
+- **AWS Certified Solutions Architect – Associate** | Amazon Web Services
 
 ---
 
-### 🤝 Let's Connect
+## Professional Connections
 
 <div align="center">
   <a href="https://linkedin.com/in/venu-reddy-387358264/" target="_blank">
@@ -125,6 +140,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=2370f5&size=20&center=true&vCenter=true&width=600&lines=Building+scalable+solutions+with+AI+and+Cloud+%F0%9F%9A%80;Always+learning%2C+always+building+%F0%9F%8E%93" alt="Footer" />
+  <p><em>Open to professional opportunities and collaborations in Full-Stack Development, AI/ML Engineering, and Cloud Solutions Architecture.</em></p>
+  <p><strong>Available for:</strong> Full-time positions | Contract opportunities | Consulting projects</p>
 </div>
 
